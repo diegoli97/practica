@@ -1,0 +1,66 @@
+aseURL = "https://diegoli97.github.io/practica"
+title = "Desarrollo de aplicaciones web en el servidor"
+theme = "learn"
+languageCode = "en-es"
+defaultContentLanguage ="es"
+staticDir = "static"
+
+[params]
+themeVariant ="mio"
+
+
+[outputs]
+home=["HTML","RSS","JSON"]
+
+[languages]
+
+[languages.es]
+
+Title ="Desarrollo web en entorno servidor"
+LanguageName= " Español "
+staticDir = "static"
+weight="1"
+
+[[languages.es.menu.shortcuts]] 
+name = "<i class='fab fa-php'></i> Página de php"
+identifier= "al"
+url ="https://www.php.net/manual/es/intro-whatis.php"
+weight="10"
+
+[[languages.es.menu.shortcuts]] 
+name = "<i class='fas fa-gamepad'></i> Anaitgames"
+identifier= "anaitgames"
+url ="https://www.anaitgames.com/"
+weight="20"
+
+[[languages.es.menu.shortcuts]] 
+name = "<i class='fab fa-twitch'></i> Twitch"
+identifier= "twitch"
+url ="https://www.twitch.tv/"
+weight="30"
+
+
+[languages.en]
+
+Title= "Web development in server environment"
+LanguageName = "English"
+staticDir = "static"
+weight="2"
+
+[[languages.en.menu.shortcuts]] 
+name = "<i class='fab fa-php'></i> PHP webpage"
+identifier= "al"
+url ="https://www.php.net/manual/es/intro-whatis.php"
+weight="10"
+
+[[languages.en.menu.shortcuts]] 
+name = "<i class='fas fa-gamepad'></i> Anaitgames"
+identifier= "anaitgames"
+url ="https://www.anaitgames.com/"
+weight="20"
+
+[[languages.en.menu.shortcuts]] 
+name = "<i class='fab fa-twitch'></i> Twitch"
+identifier= "twitch"
+url ="https://www.twitch.tv/"
+weight="30"
