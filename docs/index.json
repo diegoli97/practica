@@ -1,62 +1,62 @@
 [
 {
-	"uri": "https://diegoli97.github.io/practica1/practica1/",
+	"uri": "https://diegoli97.github.io/practica/practica1/",
 	"title": "Práctica 1",
 	"tags": [],
 	"description": "",
 	"content": "Práctica Hugo Parte 1 Aquí se explica el proceso de carga de una página web\nExplicación\n"
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/practica2/",
+	"uri": "https://diegoli97.github.io/practica/practica2/",
 	"title": "Práctica 2",
 	"tags": [],
 	"description": "",
 	"content": "Parte 2 Aquí se van a haber algunos conceptos aprendidos de hugo Tablas y listas\nImagenes\nArchivos\n"
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/",
+	"uri": "https://diegoli97.github.io/practica/",
 	"title": "Home",
 	"tags": [],
 	"description": "",
 	"content": "Práctica Hugo: Sitio web estático de Hugo con explicación de proceso cliente/servidor y algunos conceptos aprendidos A la parte 1\nA la parte 2\n"
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/practica1/tema1/",
+	"uri": "https://diegoli97.github.io/practica/practica1/tema1/",
 	"title": "Explicación",
 	"tags": [],
 	"description": "",
 	"content": "Proceso de comunicación de cliente/servidor "
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/practica2/tablasylistas/",
+	"uri": "https://diegoli97.github.io/practica/practica2/tablasylistas/",
 	"title": "Tablas y listas",
 	"tags": [],
 	"description": "",
 	"content": "TABLAS    Es mi primera tabla con MarkDown hola Relleno a ver que pasa     Escribiendo centrado se necesita :-:   Escribiendo pegado a la izquierda se necesita \u0026mdash;   Escribiendo pegado a la derecha se necesita \u0026ndash;:    Esto equivale a\n \u0026lt;table\u0026gt; \u0026lt;tr\u0026gt; \u0026lt;td\u0026gt;Escribiendo centrado\u0026lt;/td\u0026gt; \u0026lt;td\u0026gt;se necesita :-:\u0026lt;/td\u0026gt; \u0026lt;/tr\u0026gt; \u0026lt;tr\u0026gt; \u0026lt;td\u0026gt;Escribiendo pegado a la izquierda\u0026lt;/td\u0026gt; \u0026lt;td\u0026gt;se necesita ---\u0026lt;/td\u0026gt; \u0026lt;/tr\u0026gt; \u0026lt;/table\u0026gt;     Tabla hecha por mi cuenta     Ya me puedo ir despidiendo de la tabla    LISTAS Lista ordenada\n No se puede insertar HTML en markdown  Hay que Crear un html directamente    Lista desordenada\n Una cosa Otra cosita Una cosa más  "
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/practica2/archivos/",
+	"uri": "https://diegoli97.github.io/practica/practica2/archivos/",
 	"title": "Archivos",
 	"tags": [],
 	"description": "",
 	"content": "  Archivos para descargar   lady-maria-bloodborne_1580055491-2048x1152.jpg (420 KB)    Accede a AnaitGames   graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{hola} C --|One| D[Result one] C --|Two| E[Result two] C --|que| F[Tal]  p R  Probando     "
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/practica2/imagenes/",
+	"uri": "https://diegoli97.github.io/practica/practica2/imagenes/",
 	"title": "Imagenes",
 	"tags": [],
 	"description": "",
 	"content": "Estilo en una misma línea: Estilo referenciado "
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/categories/",
+	"uri": "https://diegoli97.github.io/practica/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://diegoli97.github.io/practica1/tags/",
+	"uri": "https://diegoli97.github.io/practica/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Web development in server environment</title>
-    <link>https://diegoli97.github.io/practica1/en/categories/</link>
+    <link>https://diegoli97.github.io/practica/en/categories/</link>
     <description>Recent content in Categories on Web development in server environment</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-es</language><atom:link href="https://diegoli97.github.io/practica1/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-es</language><atom:link href="https://diegoli97.github.io/practica/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

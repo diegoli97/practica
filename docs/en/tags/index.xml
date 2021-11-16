@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Web development in server environment</title>
-    <link>https://diegoli97.github.io/practica1/en/tags/</link>
+    <link>https://diegoli97.github.io/practica/en/tags/</link>
     <description>Recent content in Tags on Web development in server environment</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-es</language><atom:link href="https://diegoli97.github.io/practica1/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-es</language><atom:link href="https://diegoli97.github.io/practica/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
