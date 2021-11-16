@@ -10,8 +10,8 @@ pre = "<b>2. </b>"
 
 ### Aquí se van a haber algunos conceptos aprendidos de hugo
 
-[Tablas y listas](/practica/practica2/tablasylistas)
+[Tablas y listas](/practica2/tablasylistas)
 
-[Imagenes](/practica/practica2/imagenes)
+[Imagenes](/practica2/imagenes)
 
-[Archivos](/practica/practica2/archivos)
+[Archivos](/practica2/archivos)

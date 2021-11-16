@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Practice 1 on Web development in server environment</title>
-    <link>https://diegoli97.github.io/practica/en/practica1/</link>
+    <link>https://diegoli97.github.io/en/practica1/</link>
     <description>Recent content in Practice 1 on Web development in server environment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-es</language>
-    <lastBuildDate>Tue, 28 Sep 2021 17:16:39 +0200</lastBuildDate><atom:link href="https://diegoli97.github.io/practica/en/practica1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 17:16:39 +0200</lastBuildDate><atom:link href="https://diegoli97.github.io/en/practica1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explanation</title>
-      <link>https://diegoli97.github.io/practica/en/practica1/tema1/</link>
+      <link>https://diegoli97.github.io/en/practica1/tema1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diegoli97.github.io/practica/en/practica1/tema1/</guid>
+      <guid>https://diegoli97.github.io/en/practica1/tema1/</guid>
       <description>Communication process client/server El navegador/cliente hace una petición o solicita una página web al servidor a través de una URL.
 Si no la tiene almacenada ya la petición viaja al servidor mediante el protocolo HTTP o HTTPS y si no hay intermediarios, como un proxy o un VPN, el servidor dns asocia esa url a una ip en el lado del servidor.
 Entonces le manda al cliente la petición parcial o completa (dependiendo de los permisos), de la página html, javascript, css&amp;hellip; de nuevo mediante el protocolo TCP/IP y HTTP.</description>

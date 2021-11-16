@@ -1,4 +1,4 @@
-baseURL = "https://diegoli97.github.io/practica"
+baseURL = "https://diegoli97.github.io/"
 title = "Desarrollo de aplicaciones web en el servidor"
 theme = "learn"
 languageCode = "en-es"

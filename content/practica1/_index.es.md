@@ -12,4 +12,4 @@ pre = "<b>1. </b>"
 
 Aquí se explica el proceso de carga de una página web
 
-[Explicación](/practica/practica1/tema1)
+[Explicación](/practica1/tema1)

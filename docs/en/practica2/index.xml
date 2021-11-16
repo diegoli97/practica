@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Practice 2 on Web development in server environment</title>
-    <link>https://diegoli97.github.io/practica/en/practica2/</link>
+    <link>https://diegoli97.github.io/en/practica2/</link>
     <description>Recent content in Practice 2 on Web development in server environment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-es</language>
-    <lastBuildDate>Tue, 28 Sep 2021 17:40:38 +0200</lastBuildDate><atom:link href="https://diegoli97.github.io/practica/en/practica2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 17:40:38 +0200</lastBuildDate><atom:link href="https://diegoli97.github.io/en/practica2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tablas y listas</title>
-      <link>https://diegoli97.github.io/practica/en/practica2/tablasylistas/</link>
+      <link>https://diegoli97.github.io/en/practica2/tablasylistas/</link>
       <pubDate>Wed, 29 Sep 2021 15:48:42 +0200</pubDate>
       
-      <guid>https://diegoli97.github.io/practica/en/practica2/tablasylistas/</guid>
+      <guid>https://diegoli97.github.io/en/practica2/tablasylistas/</guid>
       <description>TABLAS    Es mi primera tabla con MarkDown hola Relleno a ver que pasa     Escribiendo centrado se necesita :-:   Escribiendo pegado a la izquierda se necesita &amp;mdash;   Escribiendo pegado a la derecha se necesita &amp;ndash;:    Esto equivale a
  &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Escribiendo centrado&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;se necesita :-:&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Escribiendo pegado a la izquierda&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;se necesita ---&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/table&amp;gt;     Tabla hecha por mi cuenta     Ya me puedo ir despidiendo de la tabla    LISTAS Lista ordenada</description>
     </item>
     
     <item>
       <title>Archivos</title>
-      <link>https://diegoli97.github.io/practica/en/practica2/archivos/</link>
+      <link>https://diegoli97.github.io/en/practica2/archivos/</link>
       <pubDate>Tue, 28 Sep 2021 17:59:17 +0200</pubDate>
       
-      <guid>https://diegoli97.github.io/practica/en/practica2/archivos/</guid>
+      <guid>https://diegoli97.github.io/en/practica2/archivos/</guid>
       <description>  Archivos para descargar   lady-maria-bloodborne_1580055491-2048x1152.jpg (420 KB)    Accede a AnaitGames   graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{hola} C --|One| D[Result one] C --|Two| E[Result two] C --|que| F[Tal]  p R  Probando     </description>
     </item>
     
     <item>
       <title>Imagenes</title>
-      <link>https://diegoli97.github.io/practica/en/practica2/imagenes/</link>
+      <link>https://diegoli97.github.io/en/practica2/imagenes/</link>
       <pubDate>Tue, 28 Sep 2021 17:59:17 +0200</pubDate>
       
-      <guid>https://diegoli97.github.io/practica/en/practica2/imagenes/</guid>
+      <guid>https://diegoli97.github.io/en/practica2/imagenes/</guid>
       <description>In the same line style: Referenced style </description>
     </item>
     
