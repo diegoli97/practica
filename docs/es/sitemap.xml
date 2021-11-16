@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/practica1/</loc>
+    <loc>https://diegoli97.github.io/practica1/practica1/</loc>
     <lastmod>2021-09-28T17:16:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/practica1/"
+                href="https://diegoli97.github.io/practica1/en/practica1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/practica1/"
+                href="https://diegoli97.github.io/practica1/practica1/"
                 />
   </url><url>
-    <loc>/practica2/</loc>
+    <loc>https://diegoli97.github.io/practica1/practica2/</loc>
     <lastmod>2021-09-28T17:40:38+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/practica2/"
+                href="https://diegoli97.github.io/practica1/en/practica2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/practica2/"
+                href="https://diegoli97.github.io/practica1/practica2/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://diegoli97.github.io/practica1/</loc>
     <lastmod>2021-09-28T17:16:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://diegoli97.github.io/practica1/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/"
+                href="https://diegoli97.github.io/practica1/"
                 />
   </url><url>
-    <loc>/practica1/tema1/</loc>
+    <loc>https://diegoli97.github.io/practica1/practica1/tema1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/practica1/tema1/"
+                href="https://diegoli97.github.io/practica1/en/practica1/tema1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/practica1/tema1/"
+                href="https://diegoli97.github.io/practica1/practica1/tema1/"
                 />
   </url><url>
-    <loc>/practica2/tablasylistas/</loc>
+    <loc>https://diegoli97.github.io/practica1/practica2/tablasylistas/</loc>
     <lastmod>2021-09-29T15:48:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/practica2/tablasylistas/"
+                href="https://diegoli97.github.io/practica1/en/practica2/tablasylistas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/practica2/tablasylistas/"
+                href="https://diegoli97.github.io/practica1/practica2/tablasylistas/"
                 />
   </url><url>
-    <loc>/practica2/archivos/</loc>
+    <loc>https://diegoli97.github.io/practica1/practica2/archivos/</loc>
     <lastmod>2021-09-28T17:59:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/practica2/archivos/"
+                href="https://diegoli97.github.io/practica1/en/practica2/archivos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/practica2/archivos/"
+                href="https://diegoli97.github.io/practica1/practica2/archivos/"
                 />
   </url><url>
-    <loc>/practica2/imagenes/</loc>
+    <loc>https://diegoli97.github.io/practica1/practica2/imagenes/</loc>
     <lastmod>2021-09-28T17:59:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/practica2/imagenes/"
+                href="https://diegoli97.github.io/practica1/en/practica2/imagenes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/practica2/imagenes/"
+                href="https://diegoli97.github.io/practica1/practica2/imagenes/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://diegoli97.github.io/practica1/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://diegoli97.github.io/practica1/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/"
+                href="https://diegoli97.github.io/practica1/categories/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://diegoli97.github.io/practica1/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://diegoli97.github.io/practica1/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="https://diegoli97.github.io/practica1/tags/"
                 />
   </url>
 </urlset>

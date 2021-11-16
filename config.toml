@@ -1,4 +1,4 @@
-aseURL = "https://diegoli97.github.io/practica1/"
+baseURL = "https://diegoli97.github.io/practica1/"
 title = "Desarrollo de aplicaciones web en el servidor"
 theme = "learn"
 languageCode = "en-es"
