@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.89.3" />
+    <meta name="description" content="">
+
+
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+
+    <title>Practice 2 :: Web development in server environment</title>
+
+    
+    <link href="/css/nucleus.css?1637030463" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1637030463" rel="stylesheet">
+    <link href="/css/hybrid.css?1637030463" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1637030463" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1637030463" rel="stylesheet">
+    <link href="/css/auto-complete.css?1637030463" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1637030463" rel="stylesheet">
+    <link href="/css/theme.css?1637030463" rel="stylesheet">
+    <link href="/css/tabs.css?1637030463" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1637030463" rel="stylesheet">
+    
+    <link href="/css/theme-mio.css?1637030463" rel="stylesheet">
+    
+    
+
+    <script src="/js/jquery-3.3.1.min.js?1637030463"></script>
+
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/en/practica2/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href='/'>
+  <img src = "/images/logo.png" alt ="No se encuentra la imagen">
+</a>
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1637030463"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1637030463"></script>
+<script type="text/javascript">
+    
+        var baseurl = "\/en";
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1637030463"></script>
+
+    
+  </div>
+  
+    <section id="homelinks">
+      <ul>
+        <li>
+            <a class="padding" href='/'><i class='fas fa-home'></i> Home</a>
+        </li>
+      </ul>
+    </section>
+  
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/en/practica1/" title="Practice 1" class="dd-item
+        
+        
+        
+        ">
+      <a href="/en/practica1/">
+          <b>1. </b>Practice 1
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/en/practica1/tema1/" title="Explanation" class="dd-item ">
+        <a href="/en/practica1/tema1/">
+        Explanation
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/en/practica2/" title="Practice 2" class="dd-item
+        parent
+        active
+        
+        ">
+      <a href="/en/practica2/">
+          <b>2. </b>Practice 2
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/en/practica2/tablasylistas/" title="Tablas y listas" class="dd-item ">
+        <a href="/en/practica2/tablasylistas/">
+        Tablas y listas
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/en/practica2/archivos/" title="Archivos" class="dd-item ">
+        <a href="/en/practica2/archivos/">
+        Archivos
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/en/practica2/imagenes/" title="Imagenes" class="dd-item ">
+        <a href="/en/practica2/imagenes/">
+        Imagenes
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+        
+    </ul>
+
+    
+    
+      <section id="shortcuts">
+        <h3>More</h3>
+        <ul>
+          
+              <li>
+                  <a class="padding" href="https://www.php.net/manual/es/intro-whatis.php"><i class='fab fa-php'></i> PHP webpage</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="https://www.anaitgames.com/"><i class='fas fa-gamepad'></i> Anaitgames</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="https://www.twitch.tv/"><i class='fab fa-twitch'></i> Twitch</a>
+              </li>
+          
+        </ul>
+      </section>
+    
+
+    
+    <section id="prefooter">
+      <hr/>
+      <ul>
+      
+        <li>
+          <a class="padding">
+            <i class="fas fa-language fa-fw"></i>
+          <div class="select-style">
+            <select id="select-language" onchange="location = this.value;">
+          
+          
+          
+              
+              
+                  
+                    
+                    
+                      <option id="es" value="/practica2/"> Español </option>
+                    
+                  
+              
+                  
+              
+          
+              
+              
+                  
+              
+                  
+                    
+                    
+                      <option id="en" value="/en/practica2/" selected>English</option>
+                    
+                  
+              
+          
+        </select>
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
+          <g>
+            <g id="arrow-drop-down">
+              <polygon points="0,63.75 127.5,191.25 255,63.75 		" />
+            </g>
+          </g>
+        </svg>
+        </div>
+        </a>
+        </li>
+      
+
+      
+      </ul>
+    </section>
+    
+    <section id="footer">
+      <p>Built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fas fa-heart"></i></a> from <a href="https://getgrav.org">Grav</a> and <a href="https://gohugo.io/">Hugo</a></p>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            <a href='/en/'>Home</a> > Practice 2
+          
+        
+          
+        
+                 
+                  </span>
+                </div>
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+        </div>
+        
+          <div id="chapter">
+        
+        <div id="body-inner">
+          
+
+        
+
+
+
+	<h1 id="part-2">Part 2</h1>
+<h3 id="here-we-are-going-to-see-some-learned-concepts-about-hugo">Here we are going to see some learned concepts about Hugo</h3>
+<p><a href="/practica2/tablasylistas">Tables and lists</a></p>
+<p><a href="/practica2/imagenes">Images</a></p>
+<p><a href="/practica2/archivos">Files</a></p>
+
+
+
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+            </div> 
+        
+        </div>
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="/en/practica1/tema1/" title="Explanation"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="/en/practica2/tablasylistas/" title="Tablas y listas" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1637030463"></script>
+    <script src="/js/perfect-scrollbar.min.js?1637030463"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1637030463"></script>
+    <script src="/js/jquery.sticky.js?1637030463"></script>
+    <script src="/js/featherlight.min.js?1637030463"></script>
+    <script src="/js/highlight.pack.js?1637030463"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom-3.6.0.js?1637030463"></script>
+    <script src="/js/learn.js?1637030463"></script>
+    <script src="/js/hugo-learn.js?1637030463"></script>
+    
+        
+            <script src="/mermaid/mermaid.js?1637030463"></script>
+        
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+    
+    
+
+  </body>
+</html>
