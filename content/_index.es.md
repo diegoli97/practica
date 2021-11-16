@@ -7,6 +7,6 @@ chapter = true
 
 ## Práctica Hugo: Sitio web estático de Hugo con explicación de proceso cliente/servidor y algunos conceptos aprendidos
 
-[A la parte 1](/practica1/)
+[A la parte 1](/practica/practica1/)
 
-[A la parte 2](/practica2/)
+[A la parte 2](/practica/practica2/)

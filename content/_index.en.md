@@ -7,6 +7,6 @@ chapter = true
 
 ## Hugo Practice: Static Web Page with an explanation of the server/client process and some concepts learned
 
-[To part 1](/practica1/)
+[To part 1](/practica/practica1/)
 
-[To part 2](/practica2/)
+[To part 2](/practica/practica2/)
