@@ -11,3 +11,5 @@ pre = "<b>1. </b>"
 # Part 1
 
 Here we'll see the process that a web page does to load
+
+[Explicación](/practica/practica1/tema1)
