@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Desarrollo web en entorno servidor</title>
-    <link>https://diegoli97.github.io/</link>
+    <link>https://diegoli97.github.io/practica/</link>
     <description>Recent content in Home on Desarrollo web en entorno servidor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-es</language>
-    <lastBuildDate>Tue, 28 Sep 2021 17:16:39 +0200</lastBuildDate><atom:link href="https://diegoli97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 17:16:39 +0200</lastBuildDate><atom:link href="https://diegoli97.github.io/practica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explicación</title>
-      <link>https://diegoli97.github.io/practica1/tema1/</link>
+      <link>https://diegoli97.github.io/practica/practica1/tema1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diegoli97.github.io/practica1/tema1/</guid>
+      <guid>https://diegoli97.github.io/practica/practica1/tema1/</guid>
       <description>Proceso de comunicación de cliente/servidor El navegador/cliente hace una petición o solicita una página web al servidor a través de una URL.
 Si no la tiene almacenada ya la petición viaja al servidor mediante el protocolo HTTP o HTTPS y si no hay intermediarios, como un proxy o un VPN, el servidor dns asocia esa url a una ip en el lado del servidor.
 Entonces le manda al cliente la petición parcial o completa (dependiendo de los permisos), de la página html, javascript, css&amp;hellip; de nuevo mediante el protocolo TCP/IP y HTTP.</description>
@@ -20,29 +20,29 @@ Entonces le manda al cliente la petición parcial o completa (dependiendo de los
     
     <item>
       <title>Tablas y listas</title>
-      <link>https://diegoli97.github.io/practica2/tablasylistas/</link>
+      <link>https://diegoli97.github.io/practica/practica2/tablasylistas/</link>
       <pubDate>Wed, 29 Sep 2021 15:48:42 +0200</pubDate>
       
-      <guid>https://diegoli97.github.io/practica2/tablasylistas/</guid>
+      <guid>https://diegoli97.github.io/practica/practica2/tablasylistas/</guid>
       <description>TABLAS    Es mi primera tabla con MarkDown hola Relleno a ver que pasa     Escribiendo centrado se necesita :-:   Escribiendo pegado a la izquierda se necesita &amp;mdash;   Escribiendo pegado a la derecha se necesita &amp;ndash;:    Esto equivale a
  &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Escribiendo centrado&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;se necesita :-:&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Escribiendo pegado a la izquierda&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;se necesita ---&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/table&amp;gt;     Tabla hecha por mi cuenta     Ya me puedo ir despidiendo de la tabla    LISTAS Lista ordenada</description>
     </item>
     
     <item>
       <title>Archivos</title>
-      <link>https://diegoli97.github.io/practica2/archivos/</link>
+      <link>https://diegoli97.github.io/practica/practica2/archivos/</link>
       <pubDate>Tue, 28 Sep 2021 17:59:17 +0200</pubDate>
       
-      <guid>https://diegoli97.github.io/practica2/archivos/</guid>
+      <guid>https://diegoli97.github.io/practica/practica2/archivos/</guid>
       <description>  Archivos para descargar   lady-maria-bloodborne_1580055491-2048x1152.jpg (420 KB)    Accede a AnaitGames   graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{hola} C --|One| D[Result one] C --|Two| E[Result two] C --|que| F[Tal]  p R  Probando     </description>
     </item>
     
     <item>
       <title>Imagenes</title>
-      <link>https://diegoli97.github.io/practica2/imagenes/</link>
+      <link>https://diegoli97.github.io/practica/practica2/imagenes/</link>
       <pubDate>Tue, 28 Sep 2021 17:59:17 +0200</pubDate>
       
-      <guid>https://diegoli97.github.io/practica2/imagenes/</guid>
+      <guid>https://diegoli97.github.io/practica/practica2/imagenes/</guid>
       <description>Estilo en una misma línea: Estilo referenciado </description>
     </item>
     
